@@ -1,9 +1,9 @@
 package project1;
 
-public class g {
+public class l {
 	public static void main(String[] args)
 	{
-		System.out.println("tejaadothi13");
+		System.out.println("adothi");
 	}
 
 }
