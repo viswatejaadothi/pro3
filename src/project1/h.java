@@ -9,6 +9,7 @@ public class h {
 		System.out.println("adothi");
 		System.out.println("nishi");
 		System.out.println("top");
+	        System.out.println("pop");
 	}
 
 }
